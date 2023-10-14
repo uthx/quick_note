@@ -1,0 +1,6 @@
+Temp Notes: A service that let's you create quick temporary notes.
+Opiniated, minimalist, straigh to the point. Just a temporary quick note.
+
+- Storing data in local storage
+- showing user the saved notes
+- allowing user to load a particular note and edit it
