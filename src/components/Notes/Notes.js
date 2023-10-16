@@ -85,7 +85,7 @@ export const Notes = () => {
   };
   return (
     <div>
-      <h1>Temp Notes</h1>
+      <h1>Temp Note</h1>
       <div style={buttonContianerStyles}>
         <button style={buttonStyle} onClick={resetHandler}>
           Reset
